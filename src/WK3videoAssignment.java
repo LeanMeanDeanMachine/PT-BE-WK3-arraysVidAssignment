@@ -6,6 +6,14 @@ public class WK3videoAssignment {
         int result = ages[last] - ages[0];
         System.out.println(result);
 
+        // Loop for finding average of ages Array
+
+        double sum = 0;
+        for (int age : ages) {
+            sum += age;
+        }
+        double average = sum / ages.length;
+        System.out.println(average);
 
     }
 }

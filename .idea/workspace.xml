@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PT-BE-WK3-codingAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WK3videoAssignment.java" afterDir="false" />
+    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="b.&#9;Add a new age to your array and repeat the step above to ensure it is dynamic (works for arrays of different lengths).">
+      <change beforePath="$PROJECT_DIR$/src/WK3videoAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WK3videoAssignment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +51,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678553100387</updated>
-      <workItem from="1678553102170" duration="2060000" />
+      <workItem from="1678553102170" duration="2455000" />
     </task>
+    <task id="LOCAL-00001" summary="Coding Steps — Arrays and Methods&#10;1.&#9;Create an array of int called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.&#10;a.&#9;Programmatically subtract the value of the first element in the array from the value in the last element of the array (i.e. do not use ages[7] in your code). Print the result to the console.">
+      <created>1678555594007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678555594007</updated>
+    </task>
+    <task id="LOCAL-00002" summary="b.&#9;Add a new age to your array and repeat the step above to ensure it is dynamic (works for arrays of different lengths).">
+      <created>1678555653197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678555653197</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Coding Steps — Arrays and Methods&#10;1.&#9;Create an array of int called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.&#10;a.&#9;Programmatically subtract the value of the first element in the array from the value in the last element of the array (i.e. do not use ages[7] in your code). Print the result to the console." />
+    <MESSAGE value="b.&#9;Add a new age to your array and repeat the step above to ensure it is dynamic (works for arrays of different lengths)." />
+    <option name="LAST_COMMIT_MESSAGE" value="b.&#9;Add a new age to your array and repeat the step above to ensure it is dynamic (works for arrays of different lengths)." />
   </component>
 </project>
