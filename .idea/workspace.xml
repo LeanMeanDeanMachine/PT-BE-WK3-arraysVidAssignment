@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="8.&#9;Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space).">
-      <change afterPath="$PROJECT_DIR$/src/ReturnSumGreater100BooleanLoop.java" afterDir="false" />
+    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="10.&#9;Write a method that takes an array of double and returns the average of all the elements in the array.">
+      <change afterPath="$PROJECT_DIR$/src/TwoDoubleArrayBooleanIfAvgOneGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WillBuyDrinkBooleanMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678553100387</updated>
-      <workItem from="1678553102170" duration="6997000" />
+      <workItem from="1678553102170" duration="8230000" />
     </task>
     <task id="LOCAL-00001" summary="Coding Steps — Arrays and Methods&#10;1.&#9;Create an array of int called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.&#10;a.&#9;Programmatically subtract the value of the first element in the array from the value in the last element of the array (i.e. do not use ages[7] in your code). Print the result to the console.">
       <created>1678555594007</created>
@@ -124,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678560121401</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="9.&#9;Write a method that takes an array of int and returns true if the sum of all the ints in the array is greater than 100.">
+      <created>1678560625743</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678560625743</updated>
+    </task>
+    <task id="LOCAL-00012" summary="10.&#9;Write a method that takes an array of double and returns the average of all the elements in the array.">
+      <created>1678561998764</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678561998764</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +156,8 @@
     <MESSAGE value="6.&#9;Write a loop to iterate over the nameLengths array and calculate the sum of all the elements in the array. Print the result to the console." />
     <MESSAGE value="7.&#9;Write a method that takes a String, word, and an int, n, as arguments and returns the word concatenated to itself n number of times. (i.e. if I pass in “Hello” and 3, I expect the method to return “HelloHelloHello”)." />
     <MESSAGE value="8.&#9;Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space)." />
-    <option name="LAST_COMMIT_MESSAGE" value="8.&#9;Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space)." />
+    <MESSAGE value="9.&#9;Write a method that takes an array of int and returns true if the sum of all the ints in the array is greater than 100." />
+    <MESSAGE value="10.&#9;Write a method that takes an array of double and returns the average of all the elements in the array." />
+    <option name="LAST_COMMIT_MESSAGE" value="10.&#9;Write a method that takes an array of double and returns the average of all the elements in the array." />
   </component>
 </project>
