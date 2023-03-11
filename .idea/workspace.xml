@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="10.&#9;Write a method that takes an array of double and returns the average of all the elements in the array.">
-      <change afterPath="$PROJECT_DIR$/src/TwoDoubleArrayBooleanIfAvgOneGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WillBuyDrinkBooleanMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="12.&#9;Write a method called willBuyDrink that takes a boolean isHotOutside, and a double moneyInPocket, and returns true if it is hot outside and if moneyInPocket is greater than 10.50." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678553100387</updated>
-      <workItem from="1678553102170" duration="8230000" />
+      <workItem from="1678553102170" duration="8884000" />
     </task>
     <task id="LOCAL-00001" summary="Coding Steps — Arrays and Methods&#10;1.&#9;Create an array of int called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.&#10;a.&#9;Programmatically subtract the value of the first element in the array from the value in the last element of the array (i.e. do not use ages[7] in your code). Print the result to the console.">
       <created>1678555594007</created>
@@ -139,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678561998764</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="11.&#9;Write a method that takes two arrays of double and returns true if the average of the elements in the first array is greater than the average of the elements in the second array.">
+      <created>1678562458357</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678562458357</updated>
+    </task>
+    <task id="LOCAL-00014" summary="12.&#9;Write a method called willBuyDrink that takes a boolean isHotOutside, and a double moneyInPocket, and returns true if it is hot outside and if moneyInPocket is greater than 10.50.">
+      <created>1678562572299</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678562572299</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +168,8 @@
     <MESSAGE value="8.&#9;Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space)." />
     <MESSAGE value="9.&#9;Write a method that takes an array of int and returns true if the sum of all the ints in the array is greater than 100." />
     <MESSAGE value="10.&#9;Write a method that takes an array of double and returns the average of all the elements in the array." />
-    <option name="LAST_COMMIT_MESSAGE" value="10.&#9;Write a method that takes an array of double and returns the average of all the elements in the array." />
+    <MESSAGE value="11.&#9;Write a method that takes two arrays of double and returns true if the average of the elements in the first array is greater than the average of the elements in the second array." />
+    <MESSAGE value="12.&#9;Write a method called willBuyDrink that takes a boolean isHotOutside, and a double moneyInPocket, and returns true if it is hot outside and if moneyInPocket is greater than 10.50." />
+    <option name="LAST_COMMIT_MESSAGE" value="12.&#9;Write a method called willBuyDrink that takes a boolean isHotOutside, and a double moneyInPocket, and returns true if it is hot outside and if moneyInPocket is greater than 10.50." />
   </component>
 </project>
