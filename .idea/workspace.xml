@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="6.&#9;Write a loop to iterate over the nameLengths array and calculate the sum of all the elements in the array. Print the result to the console.">
-      <change afterPath="$PROJECT_DIR$/src/StringWordIntConcatMethod.java" afterDir="false" />
+    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="8.&#9;Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space).">
+      <change afterPath="$PROJECT_DIR$/src/ReturnSumGreater100BooleanLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678553100387</updated>
-      <workItem from="1678553102170" duration="6275000" />
+      <workItem from="1678553102170" duration="6997000" />
     </task>
     <task id="LOCAL-00001" summary="Coding Steps — Arrays and Methods&#10;1.&#9;Create an array of int called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.&#10;a.&#9;Programmatically subtract the value of the first element in the array from the value in the last element of the array (i.e. do not use ages[7] in your code). Print the result to the console.">
       <created>1678555594007</created>
@@ -110,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678558719588</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="7.&#9;Write a method that takes a String, word, and an int, n, as arguments and returns the word concatenated to itself n number of times. (i.e. if I pass in “Hello” and 3, I expect the method to return “HelloHelloHello”).">
+      <created>1678559987904</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678559987904</updated>
+    </task>
+    <task id="LOCAL-00010" summary="8.&#9;Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space).">
+      <created>1678560121401</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678560121401</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +139,8 @@
     <MESSAGE value="b.&#9;Use a loop to iterate through the array again and concatenate all the names together, separated by spaces, and print the result to the console." />
     <MESSAGE value="5.&#9;Create a new array of int called nameLengths. Write a loop to iterate over the previously created names array and add the length of each name to the nameLengths array." />
     <MESSAGE value="6.&#9;Write a loop to iterate over the nameLengths array and calculate the sum of all the elements in the array. Print the result to the console." />
-    <option name="LAST_COMMIT_MESSAGE" value="6.&#9;Write a loop to iterate over the nameLengths array and calculate the sum of all the elements in the array. Print the result to the console." />
+    <MESSAGE value="7.&#9;Write a method that takes a String, word, and an int, n, as arguments and returns the word concatenated to itself n number of times. (i.e. if I pass in “Hello” and 3, I expect the method to return “HelloHelloHello”)." />
+    <MESSAGE value="8.&#9;Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space)." />
+    <option name="LAST_COMMIT_MESSAGE" value="8.&#9;Write a method that takes two Strings, firstName and lastName, and returns a full name (the full name should be the first and the last name as a String separated by a space)." />
   </component>
 </project>
