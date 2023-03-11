@@ -19,6 +19,18 @@ public class NamesArrays {
         }
         System.out.println(concatenated.trim());
 
+        System.out.println(" "); //Peace of Mind
+
+        //new int Array called nameLengths calculating the length of "names"
+        int[] nameLengths = new int[names.length];
+
+        //Loop iterating over names array and adding length
+        for (int i = 0; i < names.length; i++) {
+            nameLengths[i] = names[i].length();
+        }
+        for (int length : nameLengths) {
+            System.out.println(length + " ");
+        }
 
     }
 }

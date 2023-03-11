@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="a.&#9;Use a loop to iterate through the array and calculate the average number of letters per name. Print the result to the console.">
+    <list default="true" id="8c09e23e-c162-4295-a4af-75774a0df88f" name="Changes" comment="b.&#9;Use a loop to iterate through the array again and concatenate all the names together, separated by spaces, and print the result to the console.">
       <change beforePath="$PROJECT_DIR$/src/NamesArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NamesArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678553100387</updated>
-      <workItem from="1678553102170" duration="3969000" />
+      <workItem from="1678553102170" duration="4567000" />
     </task>
     <task id="LOCAL-00001" summary="Coding Steps — Arrays and Methods&#10;1.&#9;Create an array of int called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.&#10;a.&#9;Programmatically subtract the value of the first element in the array from the value in the last element of the array (i.e. do not use ages[7] in your code). Print the result to the console.">
       <created>1678555594007</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678556618365</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="b.&#9;Use a loop to iterate through the array again and concatenate all the names together, separated by spaces, and print the result to the console.">
+      <created>1678557573968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678557573968</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +107,7 @@
     <MESSAGE value="c.&#9;Use a loop to iterate through the array and calculate the average age. Print the result to the console." />
     <MESSAGE value="2.&#9;Create an array of String called names that contains the following values: “Sam”, “Tommy”, “Tim”, “Sally”, “Buck”, “Bob”." />
     <MESSAGE value="a.&#9;Use a loop to iterate through the array and calculate the average number of letters per name. Print the result to the console." />
-    <option name="LAST_COMMIT_MESSAGE" value="a.&#9;Use a loop to iterate through the array and calculate the average number of letters per name. Print the result to the console." />
+    <MESSAGE value="b.&#9;Use a loop to iterate through the array again and concatenate all the names together, separated by spaces, and print the result to the console." />
+    <option name="LAST_COMMIT_MESSAGE" value="b.&#9;Use a loop to iterate through the array again and concatenate all the names together, separated by spaces, and print the result to the console." />
   </component>
 </project>
