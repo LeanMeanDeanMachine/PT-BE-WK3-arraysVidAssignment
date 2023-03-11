@@ -9,5 +9,16 @@ public class NamesArrays {
         }
         double average = (double) totalLetters / names.length;
         System.out.println(average);
+
+        //Loop to concatenate ALL the names together and print to console
+        System.out.println(" "); //Peace of Mind
+
+        String concatenated = " ";
+        for (String name : names) {
+            concatenated += name + " ";
+        }
+        System.out.println(concatenated.trim());
+
+
     }
 }
