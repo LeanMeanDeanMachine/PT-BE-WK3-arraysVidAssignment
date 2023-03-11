@@ -24,13 +24,22 @@ public class NamesArrays {
         //new int Array called nameLengths calculating the length of "names"
         int[] nameLengths = new int[names.length];
 
-        //Loop iterating over names array and adding length
+        //Loop iterating over names array and adding int length to nameLengths array
         for (int i = 0; i < names.length; i++) {
             nameLengths[i] = names[i].length();
         }
         for (int length : nameLengths) {
             System.out.println(length + " ");
         }
+
+        System.out.println(" ");   //Peace of Mind
+
+        //Loop iterating over nameLengths array calculating sum of all elements
+        int sum = 0;
+        for (int length : nameLengths) {
+            sum += length;
+        }
+        System.out.println(sum);
 
     }
 }
