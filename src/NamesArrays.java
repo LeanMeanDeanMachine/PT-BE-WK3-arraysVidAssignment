@@ -13,11 +13,11 @@ public class NamesArrays {
         //Loop to concatenate ALL the names together and print to console
         System.out.println(" "); //Peace of Mind
 
-        String concatenated = " ";
+        StringBuilder concatenated = new StringBuilder(" ");
         for (String name : names) {
-            concatenated += name + " ";
+            concatenated.append(name).append(" ");
         }
-        System.out.println(concatenated.trim());
+        System.out.println(concatenated.toString().trim());
 
         System.out.println(" "); //Peace of Mind
 

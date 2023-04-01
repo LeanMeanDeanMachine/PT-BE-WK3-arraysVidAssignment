@@ -7,6 +7,7 @@ public class FullNameConcat {
         }
 
         public static String getFullName(String firstName, String lastName) {
+
             return firstName + " " + lastName;
         }
     }
